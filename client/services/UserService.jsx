@@ -1,4 +1,4 @@
-import request from '../shared/request';
+import request from '../shared/AxiosRequest.jsx';
 function get() {
     const path = "/users";
     return request({
