@@ -1,0 +1,17 @@
+.user-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 2px 16px;
+    box-shadow: 0 8px 24px #c3c3c3;
+    margin: auto;
+    .user-card__other{
+        color: grey;
+    }
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) {
+    .user-card {
+        width: 450px;
+    }
+
+}
