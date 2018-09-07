@@ -1,4 +1,6 @@
 // Styles goes here..
+@import "./variables";
+@import "./_reset";
 @import "/components/_header.scss";
 @import "_base.scss";
 @import "components/_usersTable.scss";
