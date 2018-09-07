@@ -1,0 +1,25 @@
+.navheader {
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: auto;
+    background-color: #002319;
+    margin: 20px 0;
+    a {
+        color: #fff;
+    }
+}
+
+.navheader__link {
+    color: #14503a;
+    cursor: default;
+    top: 0;
+    margin: auto;
+}
+
+.navheader-center {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+}
